@@ -4,7 +4,7 @@ This repository contains my work for COMPSCIX 404 Data Structures and Algorithms
 # Final Project
 For my final project ([link](backpropogation-from-scratch.ipynb)), I built an implementation of the backpropogation algorithm from scratch, and analyzed it's time and space complexity.
 
-Here is a YouTube video of me presenting the final project.I explain why backpropogation is needed to efficiently compute gradients of Deep Learning models, and walk through a code implementation of the algorithm. I then analyze the time and space complexity (you must click on the picture):
+Here is a YouTube video of me presenting the final project. I explain why backpropogation is needed to efficiently compute gradients of Deep Learning models, and walk through a code implementation of the algorithm. I then analyze the time and space complexity (you must click on the picture):
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jvjHaB1CUPo/0.jpg)](https://www.youtube.com/watch?v=jvjHaB1CUPo)
 
